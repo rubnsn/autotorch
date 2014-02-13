@@ -1,0 +1,9 @@
+*.class
+*.png
+*.cfg
+*.lzma
+*.properties
+# Package Files #
+*.jar
+*.war
+*.ear
